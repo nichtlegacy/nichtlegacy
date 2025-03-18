@@ -5,11 +5,14 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@nichtlegacy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=%CA%9F%20%E1%B4%87%20%C9%A2%20%E1%B4%80%20%E1%B4%84%20%CA%8F&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
   <a href="https://discord.com/users/400672307833733121" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=nichtlegacy&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+<a href="https://www.instagram.com/@legacy.collector" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@legacy.collector&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://letterboxd.com/nichtlegacy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=nichtlegacy&color=00E054&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="letterboxd logo"  />
   </a>
 </div>
 
