@@ -8,7 +8,7 @@
   <a href="https://discord.com/users/400672307833733121" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=nichtlegacy&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-<a href="https://www.instagram.com/@legacy.collector" target="_blank">
+<a href="https://www.instagram.com/legacy.collector" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@legacy.collector&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://letterboxd.com/nichtlegacy" target="_blank">
