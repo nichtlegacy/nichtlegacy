@@ -1,29 +1,54 @@
-<div align="center">
-  <img height="150" src="https://i.imgur.com/hD2vo9B.png"  />
-</div>
-
-###
+![Banner](https://i.imgur.com/8TtD6Su.jpeg)
 
 <div align="center">
-  <a href="https://discord.com/users/400672307833733121" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=nichtlegacy&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-<a href="https://www.instagram.com/legacy.collector" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@legacy.collector&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://letterboxd.com/nichtlegacy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=nichtlegacy&color=00E054&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="letterboxd logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">hello there! 👋</h1>
-
-###
-
-<p align="center">
+  
+  # 👋 Hello there!
+  
   <a href="https://discord.com/users/400672307833733121">
-    <img src="https://lanyard.cnrad.dev/api/400672307833733121" alt="Discord Presence">
+    <img src="https://lanyard.cnrad.dev/api/400672307833733121" alt="Discord Presence" />
   </a>
+</div>
+
+## About Me
+I'm a developer with a strong focus on media servers, automation, and intuitive user experiences. I build tools to optimize and personalize workflows, from home server management to film recommendation systems. Currently exploring new ideas and refining my existing projects.
+
+## 🛠️ Tech Stack
+<div align="center">
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+  ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Plex API](https://img.shields.io/badge/Plex_API-E5A00D?style=for-the-badge&logo=plex&logoColor=white)
+  ![SABnzbd](https://img.shields.io/badge/SABnzbd-FCC624?style=for-the-badge&logo=sabnzbd&logoColor=black)
+
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![TMDb API](https://img.shields.io/badge/TMDb_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)
+  ![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white)
+
+</div>
+
+## 🚀 Projects
+Here are some of my personal projects focused on media automation, Plex integration, and useful tools for daily use.
+
+### 🎬 Plex Ecosystem  
+- 🎥 **[PlexWatch](https://github.com/nichtlegacy/PlexWatch)** – A Discord bot providing real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.  
+- 📢 **[Plexbord](https://github.com/nichtlegacy/Plexbord)** – A Discord bot that tracks movies watched on Plex, sends rich notifications to Discord, and logs ratings to Letterboxd seamlessly.  
+- 🖼️ **[PlexPosterSync](https://github.com/nichtlegacy/PlexPosterSync)** – Automates Plex cover updates by fetching high-quality posters from ThePosterDB and matching them via TMDb.
+
+### 🤖 Other Projects  
+- 🛍️ **[TooGoodToDiscord](https://github.com/nichtlegacy/TooGoodToDiscord)** – A Python-based bot that monitors Too Good To Go stores and sends real-time Discord notifications when surprise bags are available.  
+
+### 🌱 Upcoming Projects  
+- **PlexPosterSyncExtension** – Chrome extension to scrape posters from ThePosterDB and MediUX, compress them, upload to Plex, and organize them into matching library directories (in progress).  
+- **Plex2Mood** – Self-hosted web app for mood-based movie picks from your Plex library, filtering out watched titles via your history (concept phase).   
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://discord.com/users/400672307833733121"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://instagram.com/legacy.collector"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://letterboxd.com/nichtlegacy"><img src="https://img.shields.io/badge/Letterboxd-%23202830.svg?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd"/></a>
 </p>
