@@ -38,7 +38,7 @@ Here are some of my personal projects focused on media automation, Plex integrat
 
 ### 🎬 Plex Ecosystem  
 - 🎥 **[PlexWatch](https://github.com/nichtlegacy/PlexWatch)** – A Discord bot providing real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.  
-- 📢 **[Plexbord](https://github.com/nichtlegacy/Plexbord)** – A Discord bot that tracks movies watched on Plex, sends rich notifications to Discord, and logs ratings to Letterboxd seamlessly.  
+- 📢 **[Plexboxd](https://github.com/nichtlegacy/Plexboxd)** – A Discord bot that tracks movies watched on Plex, sends rich notifications to Discord, and logs ratings to Letterboxd seamlessly.  
 - 🖼️ **[PlexPosterSync](https://github.com/nichtlegacy/PlexPosterSync)** – Automates Plex cover updates by fetching high-quality posters from ThePosterDB and matching them via TMDb.
 
 ### 🤖 Other Projects  
