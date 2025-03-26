@@ -41,6 +41,9 @@ Here are some of my personal projects focused on media automation, Plex integrat
 - 📢 **[Plexboxd](https://github.com/nichtlegacy/Plexboxd)** – A Discord bot that tracks movies watched on Plex, sends rich notifications to Discord, and logs ratings to Letterboxd seamlessly.  
 - 🖼️ **[PlexPosterSync](https://github.com/nichtlegacy/PlexPosterSync)** – Automates Plex cover updates by fetching high-quality posters from ThePosterDB and matching them via TMDb.
 
+### 📚 Letterboxd Projects  
+- 📊 **[Letterboxd Graph](https://github.com/nichtlegacy/letterboxd-graph)** – Generates a contribution graph based on your Letterboxd activity that can be displayed on your GitHub profile, visualizing your movie-watching habits over time.
+
 ### 🤖 Other Projects  
 - 🛍️ **[TooGoodToDiscord](https://github.com/nichtlegacy/TooGoodToDiscord)** – A Python-based bot that monitors Too Good To Go stores and sends real-time Discord notifications when surprise bags are available.  
 
@@ -53,4 +56,23 @@ Here are some of my personal projects focused on media automation, Plex integrat
   <a href="https://discord.com/users/400672307833733121"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://instagram.com/legacy.collector"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://letterboxd.com/nichtlegacy"><img src="https://img.shields.io/badge/Letterboxd-%23202830.svg?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nichtlegacy/letterboxd-graph" target="_blank">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github.com/nichtlegacy/letterboxd-graph/blob/main/images/github-letterboxd-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github.com/nichtlegacy/letterboxd-graph/blob/main/images/github-letterboxd-light.svg"
+      />
+      <img
+        alt="Letterboxd contribution graph"
+        src="https://github.com/nichtlegacy/letterboxd-graph/blob/main/images/github-letterboxd-light.svg"
+      />
+    </picture>
+  </a>
 </p>
