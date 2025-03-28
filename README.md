@@ -42,8 +42,9 @@ Here are some of my personal projects focused on media automation, Plex integrat
 - 📢 **[Plexboxd](https://github.com/nichtlegacy/Plexboxd)** – A Discord bot that tracks movies watched on Plex, sends rich notifications to Discord, and logs ratings to Letterboxd seamlessly.  
 - 🖼️ **[PlexPosterSync](https://github.com/nichtlegacy/PlexPosterSync)** – Automates Plex cover updates by fetching high-quality posters from ThePosterDB and matching them via TMDb.
 
-### 📚 Letterboxd Projects  
-- 📊 **[Letterboxd Graph](https://github.com/nichtlegacy/letterboxd-graph)** – Generates a contribution graph based on your Letterboxd activity that can be displayed on your GitHub profile, visualizing your movie-watching habits over time.
+### 🎥 Movie & Show Visuals 
+- 📈 **[Letterboxd Graph](https://github.com/nichtlegacy/letterboxd-graph)** – Generates a contribution graph based on your Letterboxd activity, visualizing your movie-watching habits over time for your GitHub profile.  
+- 📉 **[Trakt Graph](https://github.com/nichtlegacy/trakt-graph)** – Creates a heatmap of your Trakt watch history (movies and shows) in light and dark SVG themes, perfect for your GitHub profile.
 
 ### 🤖 Other Projects  
 - 🛍️ **[TooGoodToDiscord](https://github.com/nichtlegacy/TooGoodToDiscord)** – A Python-based bot that monitors Too Good To Go stores and sends real-time Discord notifications when surprise bags are available.  
