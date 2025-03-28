@@ -51,7 +51,8 @@ Here are some of my personal projects focused on media automation, Plex integrat
 
 ### 🌱 Upcoming Projects  
 - **PlexPosterSyncExtension** – Chrome extension to scrape posters from ThePosterDB and MediUX, compress them, upload to Plex, and organize them into matching library directories (in progress).  
-- **Plex2Mood** – Self-hosted web app for mood-based movie picks from your Plex library, filtering out watched titles via your history (concept phase).   
+- **Plex2Mood** – Self-hosted web app for mood-based movie picks from your Plex library, filtering out watched titles via your history (concept phase).
+- **Letterboxd Analyzer** – A web app that scrapes your public Letterboxd profile and visualizes detailed statistics, such as most watched directors, genres, ratings breakdown, and yearly watch trends (in progress).
 
 ## 📫 Connect With Me
 <p align="center">
