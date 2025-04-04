@@ -41,6 +41,7 @@ Here are some of my personal projects focused on media automation, Plex integrat
 - 🎥 **[PlexWatch](https://github.com/nichtlegacy/PlexWatch)** – A Discord bot providing real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.  
 - 📢 **[Plexboxd](https://github.com/nichtlegacy/Plexboxd)** – A Discord bot that tracks movies watched on Plex, sends rich notifications to Discord, and logs ratings to Letterboxd seamlessly.  
 - 🖼️ **[PlexPosterSync](https://github.com/nichtlegacy/PlexPosterSync)** – Automates Plex cover updates by fetching high-quality posters from ThePosterDB and matching them via TMDb.
+- ⚙️ **[Kometa Config](https://github.com/nichtlegacy/kometa-config-images)** – My personal Kometa configuration for Plex, automating metadata management and custom collections with included image assets for a polished library experience.
 
 ### 🎥 Movie & Show Visuals 
 - 📈 **[Letterboxd Graph](https://github.com/nichtlegacy/letterboxd-graph)** – Generates a contribution graph based on your Letterboxd activity, visualizing your movie-watching habits over time for your GitHub profile.  
