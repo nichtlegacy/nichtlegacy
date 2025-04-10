@@ -5,10 +5,7 @@
 <div align="center">
   
   # 👋 Hello there!
-  
-  <a href="https://discord.com/users/400672307833733121">
-    <img src="https://lanyard.cnrad.dev/api/400672307833733121" alt="Discord Presence" />
-  </a>
+
 </div>
 
 ## About Me
@@ -60,6 +57,12 @@ Here are some of my personal projects focused on media automation, Plex integrat
   <a href="https://instagram.com/legacy.collector"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://letterboxd.com/nichtlegacy"><img src="https://img.shields.io/badge/Letterboxd-%23202830.svg?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd"/></a>
   <a href="https://github.com/nichtlegacy"><img src="https://komarev.com/ghpvc/?username=nichtlegacy&style=for-the-badge&color=5865F2&labelColor=181717&label=VIEWS&logo=github" alt="Profile Views"/></a>
+</p>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=janlor12&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=janlor12&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
+  </a>
 </p>
 
 
