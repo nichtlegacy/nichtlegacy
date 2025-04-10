@@ -67,7 +67,7 @@ Here are some of my personal projects focused on media automation, Plex integrat
 
 
 <p align="center">
-  <a href="https://letterboxd.com/nichtlegacy/" target="_blank">
+  <a href="https://github.com/nichtlegacy/letterboxd-graph" target="_blank">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
