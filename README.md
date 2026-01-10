@@ -15,12 +15,17 @@
 </div>
 
 ## About Me
-I'm a developer with a strong focus on media servers, automation, and intuitive user experiences. I build tools to optimize and personalize workflows, from home server management to film recommendation systems. Currently exploring new ideas and refining my existing projects.
+I'm a developer with a strong interest in systems, self-hosting, and automation. I enjoy building tools that solve concrete problems, especially when existing solutions are limited or overly abstract.
+
+Many of my projects start as experiments and evolve into long-term systems, ranging from media infrastructure and data scraping to custom UIs and backend services. I like digging into technical details, questioning assumptions, and refining solutions until they feel solid and purposeful.
+
 
 ## 🛠️ Tech Stack
 <div align="center">
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
   ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -29,11 +34,11 @@ I'm a developer with a strong focus on media servers, automation, and intuitive 
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+  ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![TMDb API](https://img.shields.io/badge/TMDb_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)
   ![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 </div>
 
@@ -43,6 +48,7 @@ Here are some of my personal projects focused on media automation, Plex integrat
 ### 🎬 Plex Ecosystem  
 - 🎥 **[PlexWatch](https://github.com/nichtlegacy/PlexWatch)** – A Discord bot providing real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.  
 - 📢 **[Plexboxd](https://github.com/nichtlegacy/Plexboxd)** – A Discord bot that tracks movies watched on Plex, sends rich notifications to Discord, and logs ratings to Letterboxd seamlessly.  
+- 🎮 **[PlexRPC](https://github.com/nichtlegacy/PlexRPC)** – Discord Rich Presence for Plex Media Server – A Vencord plugin that displays your watching activity with posters, progress, and IMDb/TMDB links.  
 - ⚙️ **[Kometa Config](https://github.com/nichtlegacy/kometa-config-images)** – My personal Kometa configuration for Plex, automating metadata management and custom collections with included image assets for a polished library experience.
 
 ### 🎥 Movie & Show Visuals 
@@ -52,10 +58,10 @@ Here are some of my personal projects focused on media automation, Plex integrat
 ### 🤖 Other Projects  
 - 🛍️ **[TooGoodToDiscord](https://github.com/nichtlegacy/TooGoodToDiscord)** – A Python-based bot that monitors Too Good To Go stores and sends real-time Discord notifications when surprise bags are available.  
 
-### 🌱 Upcoming Projects  
-- **PlexPosterSyncExtension** – Chrome extension to scrape posters from ThePosterDB and MediUX, compress them, upload to Plex, and organize them into matching library directories (in progress).  
-- **Plex2Mood** – Self-hosted web app for mood-based movie picks from your Plex library, filtering out watched titles via your history (concept phase).
-- **Letterboxd Analyzer** – A web app that scrapes your public Letterboxd profile and visualizes detailed statistics, such as most watched directors, genres, ratings breakdown, and yearly watch trends (in progress).
+### 🚧 Upcoming Projects  
+- 🎥 **MediaWatch** – Major v2.0.0 rewrite of PlexWatch. A Discord bot providing a real-time dashboard for your media server (Plex & Jellyfin), featuring Tautulli stream monitoring, SABnzbd download tracking, and Uptime Kuma integration.
+
+
 
 ## 📫 Connect With Me
 <p align="center">
