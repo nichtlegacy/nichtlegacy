@@ -19,7 +19,6 @@ I'm a developer with a strong interest in systems, self-hosting, and automation.
 
 Many of my projects start as experiments and evolve into long-term systems, ranging from media infrastructure and data scraping to custom UIs and backend services. I like digging into technical details, questioning assumptions, and refining solutions until they feel solid and purposeful.
 
-
 ## 🛠️ Tech Stack
 <div align="center">
 
@@ -30,7 +29,6 @@ Many of my projects start as experiments and evolve into long-term systems, rang
   ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Plex API](https://img.shields.io/badge/Plex_API-E5A00D?style=for-the-badge&logo=plex&logoColor=white)
-  ![SABnzbd](https://img.shields.io/badge/SABnzbd-FCC624?style=for-the-badge&logo=sabnzbd&logoColor=black)
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
