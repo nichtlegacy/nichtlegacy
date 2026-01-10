@@ -52,7 +52,8 @@ Here are some of my personal projects focused on media automation, Plex integrat
 ### 🎥 Movie & Show Visuals 
 - 📈 **[Letterboxd Graph](https://github.com/nichtlegacy/letterboxd-graph)** – Generates a contribution graph based on your Letterboxd activity, visualizing your movie-watching habits over time for your GitHub profile.  
 - 📉 **[Trakt Graph](https://github.com/nichtlegacy/trakt-graph)** – Creates a heatmap of your Trakt watch history (movies and shows) in light and dark SVG themes, perfect for your GitHub profile.
-
+- 📺 **[Plex Graph](https://github.com/nichtlegacy/plex-graph)** – Generates a GitHub-style contribution graph from your Plex movie watch history, with light and dark themes for your GitHub profile.
+- 
 ### 🤖 Other Projects  
 - 🛍️ **[TooGoodToDiscord](https://github.com/nichtlegacy/TooGoodToDiscord)** – A Python-based bot that monitors Too Good To Go stores and sends real-time Discord notifications when surprise bags are available.  
 
