@@ -35,6 +35,7 @@ Many of my projects start as experiments and evolve into long-term systems, rang
   ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
   ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
   ![TMDb API](https://img.shields.io/badge/TMDb_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)
   ![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white)
 
@@ -54,7 +55,11 @@ Here are some of my personal projects focused on media automation, Plex integrat
 - 📉 **[Trakt Graph](https://github.com/nichtlegacy/trakt-graph)** – Creates a heatmap of your Trakt watch history (movies and shows) in light and dark SVG themes, perfect for your GitHub profile.
 - 📺 **[Plex Graph](https://github.com/nichtlegacy/plex-graph)** – Generates a GitHub-style contribution graph from your Plex movie watch history, with light and dark themes for your GitHub profile.
 
-### 🤖 Other Projects  
+### 🏠 Home Automation
+- 📊 **[Screen Time Exporter](https://github.com/nichtlegacy/screentime)** – Export Apple Screen Time data from Mac and iOS devices to Home Assistant, InfluxDB & Grafana. Supports multiple devices with custom names.
+- 🐕 **[Foredogs](https://github.com/nichtlegacy/foredogs)** – A Home Assistant integration that generates daily weather-themed AI illustrations of your dogs using Google Gemini, featuring 40+ art styles and E-ink display optimization.
+
+### 🤖 Other Projects
 - 🛍️ **[TooGoodToDiscord](https://github.com/nichtlegacy/TooGoodToDiscord)** – A Python-based bot that monitors Too Good To Go stores and sends real-time Discord notifications when surprise bags are available.  
 
 ### 🚧 Upcoming Projects  
