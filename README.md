@@ -57,6 +57,7 @@ Here are some of my personal projects focused on media automation, Plex integrat
 
 ### 🏠 Home Automation
 - 📊 **[Screen Time Exporter](https://github.com/nichtlegacy/screentime)** – Export Apple Screen Time data from Mac and iOS devices to Home Assistant, InfluxDB & Grafana. Supports multiple devices with custom names.
+- - 🍎 **[Apple Health Ingester](https://github.com/nichtlegacy/apple-health-ingester)** – Collect and visualize Apple Health data in InfluxDB & Grafana. Receives data directly from the Health Auto Export iOS app.
 - 🐕 **[Foredogs](https://github.com/nichtlegacy/foredogs)** – A Home Assistant integration that generates daily weather-themed AI illustrations of your dogs using Google Gemini, featuring 40+ art styles and E-ink display optimization.
 
 ### 🤖 Other Projects
