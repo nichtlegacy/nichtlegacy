@@ -52,6 +52,7 @@ Here are some of my personal projects focused on media automation, Plex integrat
 
 ### 🎥 Movie & Show Visuals 
 - 📈 **[Letterboxd Graph](https://github.com/nichtlegacy/letterboxd-graph)** – Generates a contribution graph based on your Letterboxd activity, visualizing your movie-watching habits over time for your GitHub profile.  
+- 🧩 **[Glance Letterboxd Widgets](https://github.com/nichtlegacy/glance-letterboxd-widgets)** – Adds two drop-in Glance `custom-api` widgets (GitHub-style heatmap + stats) powered by your `letterboxd-graph` JSON export.
 - 📉 **[Trakt Graph](https://github.com/nichtlegacy/trakt-graph)** – Creates a heatmap of your Trakt watch history (movies and shows) in light and dark SVG themes, perfect for your GitHub profile.
 - 📺 **[Plex Graph](https://github.com/nichtlegacy/plex-graph)** – Generates a GitHub-style contribution graph from your Plex movie watch history, with light and dark themes for your GitHub profile.
 
