@@ -54,6 +54,7 @@ Here are some of my personal projects focused on media automation, Plex integrat
 - 📈 **[Letterboxd Graph](https://github.com/nichtlegacy/letterboxd-graph)** – Generates a contribution graph based on your Letterboxd activity, visualizing your movie-watching habits over time for your GitHub profile.  
 - 🧩 **[Glance Letterboxd Widgets](https://github.com/nichtlegacy/glance-letterboxd-widgets)** – Adds two drop-in Glance `custom-api` widgets (GitHub-style heatmap + stats) powered by your `letterboxd-graph` JSON export.
 - 📉 **[Trakt Graph](https://github.com/nichtlegacy/trakt-graph)** – Creates a heatmap of your Trakt watch history (movies and shows) in light and dark SVG themes, perfect for your GitHub profile.
+- 🧭 **[Trakt Tracker](https://github.com/nichtlegacy/trakt-tracker)** – Tracks your Trakt movie and show activity and provides structured data for automations, dashboards, and follow-up tooling.
 - 📺 **[Plex Graph](https://github.com/nichtlegacy/plex-graph)** – Generates a GitHub-style contribution graph from your Plex movie watch history, with light and dark themes for your GitHub profile.
 
 ### 🏠 Home Automation
@@ -62,7 +63,8 @@ Here are some of my personal projects focused on media automation, Plex integrat
 - 🐕 **[Foredogs](https://github.com/nichtlegacy/foredogs)** – A Home Assistant integration that generates daily weather-themed AI illustrations of your dogs using Google Gemini, featuring 40+ art styles and E-ink display optimization.
 
 ### 🤖 Other Projects
-- 🛍️ **[TooGoodToDiscord](https://github.com/nichtlegacy/TooGoodToDiscord)** – A Python-based bot that monitors Too Good To Go stores and sends real-time Discord notifications when surprise bags are available.  
+- 📟 **[KumaCord](https://github.com/nichtlegacy/KumaCord)** – A Discord companion for Uptime Kuma that brings service status and outage updates directly into your Discord server.
+- 🛍️ **[TooGoodToDiscord](https://github.com/nichtlegacy/TooGoodToDiscord)** – A Python-based bot that monitors Too Good To Go stores and sends real-time Discord notifications when surprise bags are available. *(Currently broken due to TooGoodToGo API changes.)*  
 
 ### 🚧 Upcoming Projects  
 - 🎥 **MediaWatch** – Major v2.0.0 rewrite of PlexWatch. A Discord bot providing a real-time dashboard for your media server (Plex & Jellyfin), featuring Tautulli stream monitoring, SABnzbd download tracking, and Uptime Kuma integration.
