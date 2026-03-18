@@ -33,7 +33,6 @@ Many of my projects start as experiments and evolve into long-term systems, rang
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-  ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
   ![TMDb API](https://img.shields.io/badge/TMDb_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)
@@ -58,6 +57,7 @@ Here are some of my personal projects focused on media automation, Plex integrat
 - 📺 **[Plex Graph](https://github.com/nichtlegacy/plex-graph)** – Generates a GitHub-style contribution graph from your Plex movie watch history, with light and dark themes for your GitHub profile.
 
 ### 🏠 Home Automation
+- 📶 **[Glance MySpeed](https://github.com/nichtlegacy/glance-myspeed)** – A Glance `custom-api` widget for MySpeed, surfacing internet speedtest stats directly in your dashboard.
 - 📊 **[Screen Time Exporter](https://github.com/nichtlegacy/screentime)** – Export Apple Screen Time data from Mac and iOS devices to Home Assistant, InfluxDB & Grafana. Supports multiple devices with custom names.
 - 🍎 **[Apple Health Ingester](https://github.com/nichtlegacy/apple-health-ingester)** – Collect and visualize Apple Health data in InfluxDB & Grafana. Receives data directly from the Health Auto Export iOS app.
 - 🐕 **[Foredogs](https://github.com/nichtlegacy/foredogs)** – A Home Assistant integration that generates daily weather-themed AI illustrations of your dogs using Google Gemini, featuring 40+ art styles and E-ink display optimization.
