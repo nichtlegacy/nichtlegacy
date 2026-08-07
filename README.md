@@ -80,13 +80,6 @@ Here are some of my personal projects focused on media automation, Plex integrat
 </p>
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=janlor12&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=janlor12&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
-  </a>
-</p>
-
-
-<p align="center">
   <a href="https://github.com/nichtlegacy/letterboxd-graph" target="_blank">
     <picture>
       <source
