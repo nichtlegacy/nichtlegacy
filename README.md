@@ -52,8 +52,8 @@ Here are some of my personal projects focused on media automation, Plex integrat
 ### 🎥 Movie & Show Visuals 
 - 📈 **[Letterboxd Graph](https://github.com/nichtlegacy/letterboxd-graph)** – Generates a contribution graph based on your Letterboxd activity, visualizing your movie-watching habits over time for your GitHub profile.  
 - 🧩 **[Glance Letterboxd Widgets](https://github.com/nichtlegacy/glance-letterboxd-widgets)** – Adds two drop-in Glance `custom-api` widgets (GitHub-style heatmap + stats) powered by your `letterboxd-graph` JSON export.
-- 📉 **[Trakt Graph](https://github.com/nichtlegacy/trakt-graph)** – Creates a heatmap of your Trakt watch history (movies and shows) in light and dark SVG themes, perfect for your GitHub profile.
-- 🧭 **[Trakt Tracker](https://github.com/nichtlegacy/trakt-tracker)** – Tracks your Trakt movie and show activity and provides structured data for automations, dashboards, and follow-up tooling.
+- 📉 **[Trakt Graph](https://github.com/nichtlegacy/trakt-graph)** – Creates a heatmap of your Trakt watch history (movies and shows) in light and dark SVG themes, perfect for your GitHub profile. *(Unmaintained – Trakt now limits free accounts to a single API app.)*
+- 🧭 **[Trakt Tracker](https://github.com/nichtlegacy/trakt-tracker)** – Tracks your Trakt movie and show activity and provides structured data for automations, dashboards, and follow-up tooling. *(Unmaintained – same Trakt API app limit as above.)*
 - 📺 **[Plex Graph](https://github.com/nichtlegacy/plex-graph)** – Generates a GitHub-style contribution graph from your Plex movie watch history, with light and dark themes for your GitHub profile.
 
 ### 🏠 Home Automation
