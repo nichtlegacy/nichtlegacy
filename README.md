@@ -85,7 +85,7 @@ My projects range from apps and integrations to self-hosted tools, often around 
 <h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="https://discord.com/users/400672307833733121"><img alt="Discord" src="https://shieldcn.dev/badge/Discord.svg?logo=discord&variant=branded&size=sm" /></a>
-  <a href="https://instagram.com/legacy.collector"><img alt="Instagram" src="https://shieldcn.dev/badge/Instagram.svg?logo=instagram&variant=branded&size=sm" /></a>
+  <a href="https://instagram.com/nichtlegacy"><img alt="Instagram" src="https://shieldcn.dev/badge/Instagram.svg?logo=instagram&variant=branded&size=sm" /></a>
   <a href="https://letterboxd.com/nichtlegacy"><img alt="Letterboxd" src="https://shieldcn.dev/badge/Letterboxd.svg?logo=letterboxd&variant=branded&size=sm" /></a>
 </p>
 
