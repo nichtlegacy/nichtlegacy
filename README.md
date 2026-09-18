@@ -15,68 +15,78 @@
 </div>
 
 ## About Me
-I'm a developer with a strong interest in systems, self-hosting, and automation. I enjoy building tools that solve concrete problems, especially when existing solutions are limited or overly abstract.
 
-Many of my projects start as experiments and evolve into long-term systems, ranging from media infrastructure and data scraping to custom UIs and backend services. I like digging into technical details, questioning assumptions, and refining solutions until they feel solid and purposeful.
+I like imagining how things could work better, then turning those ideas into tools I can actually use.
 
-## 🛠️ Tech Stack
+My projects range from apps and integrations to self-hosted tools, often around media and personal data. A small frustration or a question is usually enough to get one started. From there, I follow the idea until it becomes something useful, then keep refining the details as I use it every day.
+
+## Tech Stack
 <div align="center">
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-  ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Plex API](https://img.shields.io/badge/Plex_API-E5A00D?style=for-the-badge&logo=plex&logoColor=white)
+  <img alt="Python" src="https://shieldcn.dev/badge/Python.svg?logo=python&variant=branded&size=sm" />
+  <img alt="TypeScript" src="https://shieldcn.dev/badge/TypeScript.svg?logo=typescript&variant=branded&size=sm" />
+  <img alt="JavaScript" src="https://shieldcn.dev/badge/JavaScript.svg?logo=javascript&variant=branded&size=sm" />
+  <img alt="Node.js" src="https://shieldcn.dev/badge/Node.js.svg?logo=nodedotjs&variant=branded&size=sm" />
+  <img alt="FastAPI" src="https://shieldcn.dev/badge/FastAPI.svg?logo=fastapi&variant=branded&size=sm" />
+  <img alt="Pydantic" src="https://shieldcn.dev/badge/Pydantic.svg?logo=pydantic&variant=branded&size=sm" />
 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
-  ![TMDb API](https://img.shields.io/badge/TMDb_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)
-  ![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white)
+  <img alt="PostgreSQL" src="https://shieldcn.dev/badge/PostgreSQL.svg?logo=postgresql&variant=branded&size=sm" />
+  <img alt="Next.js" src="https://shieldcn.dev/badge/Next.js.svg?logo=nextdotjs&variant=branded&size=sm" />
+  <img alt="React" src="https://shieldcn.dev/badge/React.svg?logo=react&variant=branded&size=sm" />
+  <img alt="Tailwind CSS" src="https://shieldcn.dev/badge/Tailwind%20CSS.svg?logo=tailwindcss&variant=branded&size=sm" />
+  <img alt="shadcn/ui" src="https://shieldcn.dev/badge/shadcn%2Fui.svg?logo=shadcnui&variant=branded&size=sm" />
+  <img alt="Docker" src="https://shieldcn.dev/badge/Docker.svg?logo=docker&variant=branded&size=sm" />
+
+  <img alt="Linux" src="https://shieldcn.dev/badge/Linux.svg?logo=linux&variant=branded&size=sm" />
+  <img alt="Proxmox" src="https://shieldcn.dev/badge/Proxmox.svg?logo=proxmox&variant=branded&size=sm" />
+  <img alt="Discord.py" src="https://shieldcn.dev/badge/Discord.py.svg?logo=discord&variant=branded&size=sm" />
+  <img alt="Plex" src="https://shieldcn.dev/badge/Plex.svg?logo=plex&variant=branded&size=sm" />
+  <img alt="Letterboxd" src="https://shieldcn.dev/badge/Letterboxd.svg?logo=letterboxd&variant=branded&size=sm" />
 
 </div>
 
-## 🚀 Projects
-Here are some of my personal projects focused on media automation, Plex integration, and useful tools for daily use.
+## Projects
 
-### 🎬 Plex Ecosystem  
-- 🎥 **[PlexWatch](https://github.com/nichtlegacy/PlexWatch)** – A Discord bot providing real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.  
-- 📢 **[Plexboxd](https://github.com/nichtlegacy/Plexboxd)** – A Discord bot that tracks movies watched on Plex, sends rich notifications to Discord, and logs ratings to Letterboxd seamlessly.  
-- 🎮 **[PlexRPC](https://github.com/nichtlegacy/PlexRPC)** – Discord Rich Presence for Plex Media Server – A Vencord plugin that displays your watching activity with posters, progress, and IMDb/TMDB links.  
-- ⚙️ **[Kometa Config](https://github.com/nichtlegacy/kometa-config-images)** – My personal Kometa configuration for Plex, automating metadata management and custom collections with included image assets for a polished library experience.
+### Plex & media automation
 
-### 🎥 Movie & Show Visuals 
-- 📈 **[Letterboxd Graph](https://github.com/nichtlegacy/letterboxd-graph)** – Generates a contribution graph based on your Letterboxd activity, visualizing your movie-watching habits over time for your GitHub profile.  
-- 🧩 **[Glance Letterboxd Widgets](https://github.com/nichtlegacy/glance-letterboxd-widgets)** – Adds two drop-in Glance `custom-api` widgets (GitHub-style heatmap + stats) powered by your `letterboxd-graph` JSON export.
-- 📉 **[Trakt Graph](https://github.com/nichtlegacy/trakt-graph)** – Creates a heatmap of your Trakt watch history (movies and shows) in light and dark SVG themes, perfect for your GitHub profile. *(Unmaintained – Trakt now limits free accounts to a single API app.)*
-- 🧭 **[Trakt Tracker](https://github.com/nichtlegacy/trakt-tracker)** – Tracks your Trakt movie and show activity and provides structured data for automations, dashboards, and follow-up tooling. *(Unmaintained – same Trakt API app limit as above.)*
-- 📺 **[Plex Graph](https://github.com/nichtlegacy/plex-graph)** – Generates a GitHub-style contribution graph from your Plex movie watch history, with light and dark themes for your GitHub profile.
+- 📺 **[MediaWatch](https://github.com/nichtlegacy/MediaWatch)**: Monitor Plex, downloads and uptime in Discord.
+- 🎬 **[Plexboxd](https://github.com/nichtlegacy/Plexboxd)**: Rate films from Discord and send them to your Letterboxd diary.
+- 🎮 **[PlexRPC](https://github.com/nichtlegacy/PlexRPC)**: Show Plex playback in Discord Rich Presence.
+- 🔎 **[Letterboxd to Seerr](https://github.com/nichtlegacy/letterboxd-to-seerr)**: Open a Letterboxd film directly in Seerr.
+- 🖼️ **[Kometa Config & Images](https://github.com/nichtlegacy/kometa-config-images)**: Collections, overlays and custom artwork for Plex.
 
-### 🏠 Home Automation
-- 📶 **[Glance MySpeed](https://github.com/nichtlegacy/glance-myspeed)** – A Glance `custom-api` widget for MySpeed, surfacing internet speedtest stats directly in your dashboard.
-- 📊 **[Screen Time Exporter](https://github.com/nichtlegacy/screentime)** – Export Apple Screen Time data from Mac and iOS devices to Home Assistant, InfluxDB & Grafana. Supports multiple devices with custom names.
-- 🍎 **[Apple Health Ingester](https://github.com/nichtlegacy/apple-health-ingester)** – Collect and visualize Apple Health data in InfluxDB & Grafana. Receives data directly from the Health Auto Export iOS app.
-- 🐕 **[Foredogs](https://github.com/nichtlegacy/foredogs)** – A Home Assistant integration that generates daily weather-themed AI illustrations of your dogs using Google Gemini, featuring 40+ art styles and E-ink display optimization.
+### Music & macOS
 
-### 🤖 Other Projects
-- 📟 **[KumaCord](https://github.com/nichtlegacy/KumaCord)** – A Discord companion for Uptime Kuma that brings service status and outage updates directly into your Discord server.
-- 🛍️ **[TooGoodToDiscord](https://github.com/nichtlegacy/TooGoodToDiscord)** – A Python-based bot that monitors Too Good To Go stores and sends real-time Discord notifications when surprise bags are available. *(Currently broken due to TooGoodToGo API changes.)*  
+- 📻 **[ILoveMusic for macOS](https://github.com/nichtlegacy/ilovemusic_mac)**: A native menu bar radio player with live metadata and listening stats.
+- 🎛️ **[ILoveMusic Stream Deck](https://github.com/nichtlegacy/ilovemusic_streamdeck)**: Control the player with live Stream Deck keys.
 
-### 🚧 Upcoming Projects  
-- 🎥 **MediaWatch** – Major v2.0.0 rewrite of PlexWatch. A Discord bot providing a real-time dashboard for your media server (Plex & Jellyfin), featuring Tautulli stream monitoring, SABnzbd download tracking, and Uptime Kuma integration.
+### Personal data & visualizations
 
+- 📊 **[Screen Time Exporter](https://github.com/nichtlegacy/screentime)**: Bring Mac and iOS usage data into Home Assistant, InfluxDB and Grafana.
+- 🍎 **[Apple Health Ingester](https://github.com/nichtlegacy/apple-health-ingester)**: Push Apple Health data into InfluxDB and Grafana.
+- 🎞️ **[Letterboxd Graph](https://github.com/nichtlegacy/letterboxd-graph)**: Turn film activity into a contribution graph for GitHub.
+- 📈 **[Plex Graph](https://github.com/nichtlegacy/plex-graph)**: A contribution graph for Plex movie history.
+- 🎬 **[Trakt Graph](https://github.com/nichtlegacy/trakt-graph)**: Visualize Trakt watch history as an SVG heatmap. *(Unmaintained)*
+- 🧭 **[Trakt Tracker](https://github.com/nichtlegacy/trakt-tracker)**: Sync Trakt history for InfluxDB analytics. *(Unmaintained)*
 
+### Home automation & monitoring
 
-## 📫 Connect With Me
+- 📟 **[KumaCord](https://github.com/nichtlegacy/KumaCord)**: Keep one Discord dashboard in sync with Uptime Kuma.
+- 🐕 **[Foredogs](https://github.com/nichtlegacy/foredogs)**: My fork of forecats for dog-themed AI weather art.
+- 💡 **[LaMetric Relay](https://github.com/nichtlegacy/lametric-relay)**: Local, event-driven notifications for a LaMetric Time.
+
+### Glance widgets
+
+- 🍿 **[Letterboxd Widgets](https://github.com/nichtlegacy/glance-letterboxd-widgets)**: Film stats and a watch-history heatmap.
+- 🚴 **[Cowboy](https://github.com/nichtlegacy/glance-cowboy)**: Bike data from Home Assistant.
+- 📶 **[MySpeed](https://github.com/nichtlegacy/glance-myspeed)**: Speed test results.
+- 🎮 **[Pokémon](https://github.com/nichtlegacy/glance-pokemon)**: A random Pokémon with artwork and stats.
+
+<h2 align="center">Connect With Me</h2>
 <p align="center">
-  <a href="https://discord.com/users/400672307833733121"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://instagram.com/legacy.collector"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://letterboxd.com/nichtlegacy"><img src="https://img.shields.io/badge/Letterboxd-%23202830.svg?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd"/></a>
-  <a href="https://github.com/nichtlegacy"><img src="https://komarev.com/ghpvc/?username=nichtlegacy&style=for-the-badge&color=5865F2&labelColor=181717&label=VIEWS&logo=github" alt="Profile Views"/></a>
+  <a href="https://discord.com/users/400672307833733121"><img alt="Discord" src="https://shieldcn.dev/badge/Discord.svg?logo=discord&variant=branded&size=sm" /></a>
+  <a href="https://instagram.com/legacy.collector"><img alt="Instagram" src="https://shieldcn.dev/badge/Instagram.svg?logo=instagram&variant=branded&size=sm" /></a>
+  <a href="https://letterboxd.com/nichtlegacy"><img alt="Letterboxd" src="https://shieldcn.dev/badge/Letterboxd.svg?logo=letterboxd&variant=branded&size=sm" /></a>
 </p>
 
 <p align="center">
