@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/400672307833733121?theme=dark&showDisplayName=true&hideStatus=true&hideClan=true)](https://discord.com/users/400672307833733121)
+[![Discord Presence](https://discord-presence.nichtlegacy.com/v1/users/400672307833733121/card.svg?hideBadges=true&hideTag=true&profileGradient=false)](https://discord.com/users/400672307833733121)
 
 </div>
 
@@ -62,6 +62,7 @@ My projects range from apps and integrations to self-hosted tools, often around 
 
 ### Personal data & visualizations
 
+- 🪪 **[Discord Presence API](https://github.com/nichtlegacy/discord-presence-api)**: Merge Lanyard and dcdn into one API and render presence cards.
 - 📊 **[Screen Time Exporter](https://github.com/nichtlegacy/screentime)**: Bring Mac and iOS usage data into Home Assistant, InfluxDB and Grafana.
 - 🍎 **[Apple Health Ingester](https://github.com/nichtlegacy/apple-health-ingester)**: Push Apple Health data into InfluxDB and Grafana.
 - 🎞️ **[Letterboxd Graph](https://github.com/nichtlegacy/letterboxd-graph)**: Turn film activity into a contribution graph for GitHub.
