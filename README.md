@@ -88,6 +88,7 @@ My projects range from apps and integrations to self-hosted tools, often around 
   <a href="https://discord.com/users/400672307833733121"><img alt="Discord" src="https://shieldcn.dev/badge/Discord.svg?logo=discord&variant=branded&size=sm" /></a>
   <a href="https://instagram.com/nichtlegacy"><img alt="Instagram" src="https://shieldcn.dev/badge/Instagram.svg?logo=instagram&variant=branded&size=sm" /></a>
   <a href="https://letterboxd.com/nichtlegacy"><img alt="Letterboxd" src="https://shieldcn.dev/badge/Letterboxd.svg?logo=letterboxd&variant=branded&size=sm" /></a>
+  <a href="https://github.com/nichtlegacy/discord-presence-api"><img alt="Profile views" src="https://discord-presence.nichtlegacy.com/v1/users/400672307833733121/views.svg" /></a>
 </p>
 
 <p align="center">
