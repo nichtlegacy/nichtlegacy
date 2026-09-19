@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![Discord Presence](https://discord-presence.nichtlegacy.com/v1/users/400672307833733121/card.svg?hideBadges=true)](https://github.com/nichtlegacy/discord-presence-api)
+[![Discord Presence](https://discord-presence.nichtlegacy.com/v1/users/400672307833733121/card.svg?hideBadges=true&profileGradient=false)](https://github.com/nichtlegacy/discord-presence-api)
 
 </div>
 
