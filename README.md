@@ -39,9 +39,6 @@ My projects range from apps and integrations to self-hosted tools, often around 
 
   <img alt="Linux" src="https://shieldcn.dev/badge/Linux.svg?logo=linux&variant=branded&size=sm" />
   <img alt="Proxmox" src="https://shieldcn.dev/badge/Proxmox.svg?logo=proxmox&variant=branded&size=sm" />
-  <img alt="Discord.py" src="https://shieldcn.dev/badge/Discord.py.svg?logo=discord&variant=branded&size=sm" />
-  <img alt="Plex" src="https://shieldcn.dev/badge/Plex.svg?logo=plex&variant=branded&size=sm" />
-  <img alt="Letterboxd" src="https://shieldcn.dev/badge/Letterboxd.svg?logo=letterboxd&variant=branded&size=sm" />
 
 </div>
 
