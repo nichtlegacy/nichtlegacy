@@ -55,6 +55,7 @@ My projects range from apps and integrations to self-hosted tools, often around 
 ### Music & macOS
 
 - 🎧 **[AstroBar](https://github.com/nichtlegacy/AstroBar)**: Control an ASTRO A50 Gen 4 from the macOS menu bar over USB HID.
+- 🎚️ **[GoXLR Utility for macOS](https://github.com/nichtlegacy/goxlr-utility/tree/macos-virtual-audio)**: My fork that adds virtual GoXLR audio devices on macOS.
 - 📻 **[ILoveMusic for macOS](https://github.com/nichtlegacy/ilovemusic_mac)**: A native menu bar radio player with live metadata and listening stats.
 - 🎛️ **[ILoveMusic Stream Deck](https://github.com/nichtlegacy/ilovemusic_streamdeck)**: Control the player with live Stream Deck keys.
 
