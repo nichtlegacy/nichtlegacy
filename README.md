@@ -64,6 +64,7 @@ My projects range from apps and integrations to self-hosted tools, often around 
 - 🪪 **[Discord Presence API](https://github.com/nichtlegacy/discord-presence-api)**: Merge Lanyard and dcdn into one API and render presence cards.
 - 📊 **[Screen Time Exporter](https://github.com/nichtlegacy/screentime)**: Bring Mac and iOS usage data into Home Assistant, InfluxDB and Grafana.
 - 🍎 **[Apple Health Ingester](https://github.com/nichtlegacy/apple-health-ingester)**: Push Apple Health data into InfluxDB and Grafana.
+- 🗺️ **[System Map](https://github.com/nichtlegacy/system-map)**: Map your services, hosts and data flows as one clear diagram.
 - 🎞️ **[Letterboxd Graph](https://github.com/nichtlegacy/letterboxd-graph)**: Turn film activity into a contribution graph for GitHub.
 - 📈 **[Plex Graph](https://github.com/nichtlegacy/plex-graph)**: A contribution graph for Plex movie history.
 - 🎬 **[Trakt Graph](https://github.com/nichtlegacy/trakt-graph)**: Visualize Trakt watch history as an SVG heatmap. *(Unmaintained)*
