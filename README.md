@@ -50,7 +50,7 @@ My projects range from apps and integrations to self-hosted tools, often around 
 - 🎬 **[Plexboxd](https://github.com/nichtlegacy/Plexboxd)**: Rate films from Discord and send them to your Letterboxd diary.
 - 🎮 **[PlexRPC](https://github.com/nichtlegacy/PlexRPC)**: Show Plex playback in Discord Rich Presence.
 - 🔎 **[Letterboxd to Seerr](https://github.com/nichtlegacy/letterboxd-to-seerr)**: Open a Letterboxd film directly in Seerr.
-- 🖼️ **[Kometa Config & Images](https://github.com/nichtlegacy/kometa-config-images)**: Collections, overlays and custom artwork for Plex.
+- 🎨 **[Kometa Config & Images](https://github.com/nichtlegacy/kometa-config-images)**: Collections, overlays and custom artwork for Plex.
 
 ### Music & macOS
 
@@ -73,7 +73,7 @@ My projects range from apps and integrations to self-hosted tools, often around 
 ### Home automation & monitoring
 
 - 📟 **[KumaCord](https://github.com/nichtlegacy/KumaCord)**: Keep one Discord dashboard in sync with Uptime Kuma.
-- 🐕 **[Foredogs](https://github.com/nichtlegacy/foredogs)**: My fork of forecats for dog-themed AI weather art.
+- 🖼️ **[Foredogs](https://github.com/nichtlegacy/foredogs)**: A daily AI picture of your dog in today's weather, painted onto a colour e-paper panel.
 - 💡 **[LaMetric Relay](https://github.com/nichtlegacy/lametric-relay)**: Local, event-driven notifications for a LaMetric Time.
 
 ### Glance widgets
