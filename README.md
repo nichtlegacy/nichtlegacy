@@ -50,6 +50,7 @@ My projects range from apps and integrations to self-hosted tools, often around 
 - 🎬 **[Plexboxd](https://github.com/nichtlegacy/Plexboxd)**: Rate films from Discord and send them to your Letterboxd diary.
 - 🎮 **[PlexRPC](https://github.com/nichtlegacy/PlexRPC)**: Show Plex playback in Discord Rich Presence.
 - 🔎 **[Letterboxd to Seerr](https://github.com/nichtlegacy/letterboxd-to-seerr)**: Open a Letterboxd film directly in Seerr.
+- 🍿 **[Recomendarr](https://github.com/nichtlegacy/recomendarr)**: Film picks from your Letterboxd diary, each with a reason why.
 - 🎨 **[Kometa Config & Images](https://github.com/nichtlegacy/kometa-config-images)**: Collections, overlays and custom artwork for Plex.
 
 ### Music & macOS
