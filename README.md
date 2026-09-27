@@ -76,6 +76,10 @@ My projects range from apps and integrations to self-hosted tools, often around 
 - 🖼️ **[Foredogs](https://github.com/nichtlegacy/foredogs)**: A daily AI picture of your dog in today's weather, painted onto a colour e-paper panel.
 - 💡 **[LaMetric Relay](https://github.com/nichtlegacy/lametric-relay)**: Local, event-driven notifications for a LaMetric Time.
 
+### Games & simulation
+
+- 🎲 **[Landlord Sim](https://github.com/nichtlegacy/landlord-sim)**: Simulate who would have won a property-trading board game.
+
 ### Glance widgets
 
 - 🍿 **[Letterboxd Widgets](https://github.com/nichtlegacy/glance-letterboxd-widgets)**: Film stats and a watch-history heatmap.
